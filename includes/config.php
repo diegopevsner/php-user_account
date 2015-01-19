@@ -1,9 +1,5 @@
 <?php
-/*****************************
-	File: includes/config.php
-	Written by: Frost of Slunked.com
-	Tutorial: User Registration and Login System
-******************************/
+
 // start the session before any output.
 session_start();
 
@@ -18,7 +14,7 @@ session_start();
 
 $host = "localhost";
 $user = "root";
-$pass = "hosting6";
+$pass = "";
 $dbname = "heidi";
 try {
     $connect = new PDO("mysql:host=$host;dbname=$dbname", $user,$pass);
