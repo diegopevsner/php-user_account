@@ -5,12 +5,6 @@ session_start();
 
 
 
-/***************
-	Database Connection 
-		You will need to change the user (user) 
-		and password (password) to what your database information uses. 
-		Same with the database name if you used something else.
-****************/
 
 $host = "localhost";
 $user = "root";
