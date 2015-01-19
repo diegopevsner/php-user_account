@@ -1,9 +1,5 @@
 <?php
-/*****************************
-	File: login.php
-	Written by: Frost of Slunked.com
-	Tutorial: User Registration and Login System
-******************************/
+
 require('includes/config.php');
 
 // If the user is logging in or out
