@@ -1,9 +1,5 @@
 <?php
-/*****************************
-	File: includes/functions.php
-	Written by: Frost of Slunked.com
-	Tutorial: User Registration and Login System
-******************************/
+
 
 /***********
 	bool createAccount (string $pUsername, string $pPassword)
