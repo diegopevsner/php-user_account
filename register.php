@@ -1,9 +1,5 @@
 <?php
-/*****************************
-	File: register.php
-	Written by: Frost of Slunked.com
-	Tutorial: User Registration and Login System
-******************************/
+
 require('includes/config.php');
 
 $sOutput .= '<div id="register-body">';
